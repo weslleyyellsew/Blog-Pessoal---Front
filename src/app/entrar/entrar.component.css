@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:wght@100&family=Contrail+One&family=Mukta:wght@300&display=swap');
+
+*{
+    font-family: 'Azeret Mono', monospace;
+}
+
+
+#img-bg{
+    background-image: url('https://i.ibb.co/C73J6St/p-Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-leo-pharetra-aliquam-velit-neque-bibendum-p.png');
+
+    min-height: 692px;  
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.p{  
+    color: #FFF89A ;  
+}
+
+.quadrado{
+
+    background-color: #E0C4ED;
+    border-radius: 5%;
+}
